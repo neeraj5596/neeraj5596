@@ -1,7 +1,6 @@
 # 💫 Hi 👋, I am Neeraj
 **A passionate Cloud Engineer || DevOps Engineer || Linux And Unix Engineer**
 
-Email Me 👉 ✉️ **neerajbhanu143@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working at :** HCLTech
 - 🌱 **I’m currently learning:** DevOps and Cloud
